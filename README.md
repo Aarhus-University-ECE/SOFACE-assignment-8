@@ -20,6 +20,7 @@ Two advantages of installing from source are:
 2.  It does not rely on package managers that may break
 
 To install zmq from source run the following commands:
+(May vary with newer versions, check the github for updated install commands)
 
 ```bash
 # install libzmq from source
